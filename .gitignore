@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+.eggs/
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+.env/
+.venv/
+
+# My outputs
+output/
+encap_output.txt
+encap_debug.json
+analysis_output.txt
+
+# CSVs produced by experiments
+*.csv
+
+# OS files
+.DS_Store

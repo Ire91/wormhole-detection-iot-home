@@ -1,0 +1,9 @@
+[
+  { "packet_id": 101, "src": 1, "dst": 5, "hop_count": 1, "total_delay": 5.2, "neighbours": [2, 3], "forwarded_count": 10, "is_attack": false },
+  { "packet_id": 102, "src": 2, "dst": 8, "hop_count": 3, "total_delay": 12.1, "neighbours": [1, 4], "forwarded_count": 15, "is_attack": false },
+  { "packet_id": 103, "src": 1, "dst": 9, "hop_count": 1, "total_delay": 45.3, "neighbours": [2], "forwarded_count": 500, "is_attack": true },
+  { "packet_id": 104, "src": 4, "dst": 7, "hop_count": 1, "total_delay": 55.0, "neighbours": [5], "forwarded_count": 450, "is_attack": true },
+  { "packet_id": 105, "src": 3, "dst": 6, "hop_count": 6, "total_delay": 35.0, "neighbours": [2, 4], "forwarded_count": 50, "is_attack": false },
+  { "packet_id": 106, "src": 5, "dst": 8, "hop_count": 1, "total_delay": 60.1, "neighbours": [], "forwarded_count": 105, "is_attack": true },
+  { "packet_id": 107, "src": 9, "dst": 2, "hop_count": 2, "total_delay": 10.0, "neighbours": [1, 8], "forwarded_count": 5, "is_attack": false }
+]

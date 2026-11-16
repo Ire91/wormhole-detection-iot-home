@@ -1,0 +1,19 @@
+{
+    "name": "large_house",
+    "num_nodes": 30,
+    "area_size": 200.0,
+    "comm_range": 60.0,
+    "traffic_rate": 10.0,
+    "simulation_duration": 60.0,
+    "warmup_duration": 15.0,
+    "wormhole_node_a": 2,
+    "wormhole_node_b": 25,
+    "tunnel_delay": 1.0,
+    "hop_count_drop_threshold": 3,
+    "rtt_anomaly_factor": 2.5,
+    "neighbour_inconsistency_threshold": 1.0,
+    "path_stretch_threshold": 1.3,
+    "forwarded_spike_factor": 2.5,
+    "scenario": "defence",
+    "attack_mode": "out-of-band"
+}

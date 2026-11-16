@@ -1,0 +1,19 @@
+{
+  "name": "small_flat",
+  "num_nodes": 10,
+  "area_size": 50.0,
+  "comm_range": 25.0,
+  "traffic_rate": 3.0,
+  "simulation_duration": 30.0,
+  "warmup_duration": 10.0,
+  "wormhole_node_a": 0,
+  "wormhole_node_b": 7,
+  "tunnel_delay": 0.5,
+  "hop_count_drop_threshold": 2,
+  "rtt_anomaly_factor": 2.0,
+  "neighbour_inconsistency_threshold": 1.0,
+  "path_stretch_threshold": 1.3,
+  "forwarded_spike_factor": 2.0,
+  "scenario": "defence",
+  "attack_mode": "out-of-band"
+}
